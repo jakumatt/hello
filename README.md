@@ -1,3 +1,2 @@
 # hello
 hello
-theme:minima
